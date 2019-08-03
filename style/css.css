@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(233, 213, 213);
+}
+
 .main-page {
   font-family: roboto;
   line-height: 1.8;
